@@ -1,2 +1,3 @@
-# Marks-Adding
-In this project we are adding the marks of respective roll numbers 
+#Mini Project - Marks Adding
+
+For illustration of a csv file I am adding a file 
